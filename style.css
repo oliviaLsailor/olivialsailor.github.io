@@ -28,7 +28,7 @@ body {
 }
 
 .roasting p {
-  color: #938E89;
+  color: #214e34;
   text-align: center;
   line-height: 24px;
   font-family: 'Raleway', sans-serif;
@@ -39,7 +39,7 @@ body {
 .spectrum div {
   font: inherit;
   padding: 0 20px;
-  color: #FFFFFF;
+  color: #33886a;
   overflow: auto;
   opacity: 0.9;
 }
